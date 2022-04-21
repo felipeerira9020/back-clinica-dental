@@ -1,0 +1,607 @@
+[2022-03-30 13:47:00] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-03-30 13:47:11] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:34:02] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:36:03] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-03-31 13:36:06] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:36:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:36:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:36:40] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:38:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:38:29] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:38:31] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:38:36] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:38:38] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:38:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:39:04] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:39:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:39:19] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:39:21] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:39:24] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:40:20] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-03-31 13:40:29] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-03-31 13:40:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:43:26] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:43:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:45:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:45:19] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:55:15] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:55:42] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:56:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:57:25] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:57:27] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:57:30] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:57:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:57:47] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:57:59] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 13:58:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:00:02] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:00:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:00:11] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:00:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:03:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:03:57] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:05:07] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:05:10] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:06:15] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:06:17] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:08:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:09:27] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:09:47] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:09:53] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:10:07] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:10:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:10:19] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:12:19] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:14:11] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:14:17] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:14:21] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:15:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:17:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:19:38] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:19:53] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:19:57] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:20:36] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:20:45] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:21:03] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:26:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:26:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:27:05] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:27:06] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:27:10] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:27:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:29:30] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:30:16] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:30:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:31:34] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:31:38] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:31:47] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:31:58] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:41:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:43:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:45:40] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:47:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:48:46] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:49:19] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:50:54] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:52:20] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-03-31 14:52:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:57:10] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 14:57:21] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:08:18] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:08:19] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:08:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:09:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:10:06] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:10:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:10:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:10:25] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:10:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:10:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:12:51] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:20:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:21:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:21:14] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:28:26] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:30:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-03-31 15:35:24] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 15:47:00] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-01 15:47:20] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-01 15:47:29] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 15:47:58] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-01 15:48:05] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 15:48:17] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 15:49:57] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 15:50:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 15:51:21] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 15:51:41] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 15:53:44] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-01 15:53:51] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 15:54:41] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 16:08:32] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 16:09:10] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 16:09:15] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 16:09:42] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 16:10:15] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 16:10:25] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-01 16:10:29] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-01 16:10:42] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:31:32] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:31:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:37:37] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 07:37:47] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:46:16] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:46:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:03] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:04] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:10] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:20] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:24] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:26] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:31] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:35] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:40] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:47:44] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:48:35] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:48:46] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:48:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:48:58] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:49:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:49:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:49:44] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:49:46] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:49:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:52:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:52:32] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:52:35] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:58:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:58:18] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 07:58:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:24:48] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:25:16] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:26:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:27:03] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:27:07] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:27:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:27:18] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:27:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:27:51] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:28:13] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 08:28:14] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:28:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:30:46] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:30:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:31:04] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 08:31:04] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:31:11] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:31:48] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:31:52] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:31:58] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:32:04] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:32:14] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 08:32:14] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:33:09] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:34:06] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:34:16] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 08:34:16] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:34:36] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:34:40] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:34:44] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:34:48] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:35:00] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:35:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:36:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:36:30] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:36:36] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:36:47] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 08:36:47] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:37:09] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:38:30] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:39:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:39:05] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:39:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:39:17] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:40:51] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:52:07] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:53:07] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 08:53:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:55:26] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 08:55:30] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 08:57:20] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 08:58:22] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 09:05:06] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 09:05:11] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 09:06:51] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 09:51:39] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:16:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:16:51] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:17:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:17:21] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:17:25] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:17:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:17:42] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:17:44] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:18:05] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:18:16] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:18:18] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:18:19] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:18:22] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:18:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:18:30] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:18:34] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:20:06] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:38:10] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:38:34] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:39:56] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:39:58] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:40:03] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:40:15] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 10:40:21] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:40:29] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:40:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:40:52] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:40:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 10:41:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:42:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:42:23] [ DEBUG] [OdontologoServiceImpl:31] Se muestra el odontologo con id 4
+[2022-04-04 11:42:34] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:42:42] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 11:43:04] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:43:53] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:43:54] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:43:54] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:44:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:44:43] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-04 11:44:47] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:44:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:44:50] [ DEBUG] [OdontologoServiceImpl:31] Se muestra el odontologo con id 4
+[2022-04-04 11:45:32] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:45:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:45:41] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-04 11:45:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 09:38:51] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 09:42:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 09:42:38] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 09:43:41] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 09:43:46] [ DEBUG] [OdontologoServiceImpl:31] Se muestra el odontologo con id 1
+[2022-04-06 09:43:48] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 09:45:20] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 09:45:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:01:03] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:01:32] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:02:15] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:02:29] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:02:34] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:02:36] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:02:55] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:02:59] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:10:00] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:10:04] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:10:10] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:10:11] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:10:14] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:11:22] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:11:25] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:11:35] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:11:38] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:11:48] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:31:47] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:31:51] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:32:33] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:32:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:36:39] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:36:53] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:37:26] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-06 10:37:32] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:49:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:49:56] [ DEBUG] [OdontologoServiceImpl:31] Se muestra el odontologo con id 1
+[2022-04-06 10:50:27] [ DEBUG] [OdontologoServiceImpl:31] Se muestra el odontologo con id 2
+[2022-04-06 10:50:36] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:51:53] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:52:00] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:52:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:52:36] [ DEBUG] [OdontologoServiceImpl:31] Se muestra el odontologo con id 2
+[2022-04-06 10:53:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 10:53:11] [ DEBUG] [OdontologoServiceImpl:31] Se muestra el odontologo con id 2
+[2022-04-06 10:53:17] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 11:39:02] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-06 11:39:36] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-07 15:33:54] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-07 15:33:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-07 15:34:09] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-07 15:34:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-07 15:34:14] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-07 15:34:24] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-07 15:34:30] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-07 15:46:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-07 15:46:34] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-07 15:47:25] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 11:49:56] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-12 11:50:09] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 11:50:10] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:05:44] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:10:16] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:10:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:10:42] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-12 12:10:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:13:26] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:14:17] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-12 12:14:29] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:15:51] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:17:46] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:18:48] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:19:22] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:19:34] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:20:58] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:21:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:23:15] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:30:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:35:38] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:36:40] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:38:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:39:41] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:40:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:42:38] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-12 12:42:51] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-12 12:42:57] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:46:42] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:49:58] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:58:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:58:17] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-12 12:58:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:47:42] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:48:09] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 08:48:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:49:21] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:49:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:49:24] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:49:31] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 08:49:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:51:26] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:51:29] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:51:31] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:51:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:52:12] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 08:52:16] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:54:00] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:57:06] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 08:57:07] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 09:16:15] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 09:16:33] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 09:16:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:27:46] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:30:24] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:31:19] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:31:47] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:32:39] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 12:32:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:32:54] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 12:32:56] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:33:02] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:33:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:33:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:34:20] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 12:34:20] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:34:29] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 12:34:29] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:35:07] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:35:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:36:59] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:37:14] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:37:20] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:37:26] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 12:37:26] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:43:31] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:47:52] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:47:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:48:10] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:49:39] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:54:18] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:54:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:54:24] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:54:24] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:54:39] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 12:59:23] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:59:25] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 12:59:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 12:59:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:03:52] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:03:54] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:03:57] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:04:05] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:05:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:07:04] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:08:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:09:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:10:26] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:11:03] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:11:06] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:11:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:11:59] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:12:02] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:13:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:13:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:13:57] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:14:08] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 13:14:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:14:15] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:14:57] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:15:40] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:15:42] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:15:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:15:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:15:54] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:15:57] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:16:04] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:17:05] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:17:42] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:18:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:18:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:19:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:19:05] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:19:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:23:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:23:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:24:45] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 13:24:45] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:25:44] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:25:50] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:25:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:26:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:27:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:27:33] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:27:58] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:28:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:28:52] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:28:56] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:29:14] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:29:53] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:29:59] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:31:37] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:33:03] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:33:43] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:33:48] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:34:55] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:38:13] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:38:14] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:41:11] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:41:18] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:41:41] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:42:14] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:43:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 13:43:54] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:13:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:25:18] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:26:01] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:26:26] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-18 14:26:26] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:26:45] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:26:53] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:28:12] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:28:22] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:32:30] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:33:00] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:33:35] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:34:59] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:35:06] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:35:19] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:36:26] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:40:07] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:41:44] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:42:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:46:41] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:47:08] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:47:18] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:47:28] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:47:45] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-18 14:47:47] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-19 12:17:56] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-19 12:18:05] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-19 12:18:05] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-19 12:19:31] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-19 13:00:05] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-19 13:14:11] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-19 13:14:18] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-20 10:39:49] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-20 10:40:16] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-20 10:40:31] [ DEBUG] [OdontologoServiceImpl:37] Registrando un odontologo con id: null
+[2022-04-20 10:40:31] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-20 11:34:41] [ DEBUG] [OdontologoServiceImpl:25] Se genera lista de odontologos registrados
+[2022-04-20 15:37:54] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 15:39:26] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 15:43:52] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 15:51:51] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 15:52:06] [ DEBUG] [OdontologoServiceImpl:39] Registrando  odontologo con id: null
+[2022-04-20 15:52:06] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 16:09:03] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 16:12:08] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 16:49:28] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 16:58:21] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:00:09] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:21:02] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:21:49] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:22:44] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:23:06] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:27:27] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:29:35] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:30:39] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:33:36] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:35:02] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:35:57] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:36:12] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:36:16] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:36:35] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:42:16] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:42:56] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:44:57] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:45:15] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:45:32] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:48:07] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:49:07] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:49:20] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:53:09] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:54:00] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:55:46] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:56:02] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:56:17] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:56:39] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 17:58:35] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 18:02:13] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 18:06:06] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 18:08:40] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 18:08:44] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 18:09:30] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 18:09:46] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-20 18:09:49] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:24:30] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:24:42] [ DEBUG] [OdontologoServiceImpl:39] Registrando  odontologo con id: null
+[2022-04-21 09:24:42] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:33:07] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:37:07] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:40:48] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:42:15] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:52:47] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:53:00] [ DEBUG] [OdontologoServiceImpl:39] Registrando  odontologo con id: null
+[2022-04-21 09:53:00] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:53:08] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:53:12] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:53:22] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:53:44] [ DEBUG] [OdontologoServiceImpl:39] Registrando  odontologo con id: null
+[2022-04-21 09:53:44] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:56:20] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:56:28] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:56:33] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:58:23] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:58:26] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:58:37] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:58:44] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:58:48] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:58:51] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 09:59:51] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:00:04] [ DEBUG] [OdontologoServiceImpl:39] Registrando  odontologo con id: null
+[2022-04-21 10:00:04] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:00:14] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:00:21] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:00:23] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:03:57] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:04:08] [ DEBUG] [OdontologoServiceImpl:39] Registrando  odontologo con id: null
+[2022-04-21 10:04:08] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:04:17] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:04:25] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:04:27] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:56:07] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 10:56:15] [ DEBUG] [OdontologoServiceImpl:39] Registrando  odontologo con id: null
+[2022-04-21 10:56:15] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:00:35] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:00:46] [ DEBUG] [OdontologoServiceImpl:39] Registrando  odontologo con id: null
+[2022-04-21 12:00:46] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:04:07] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:04:16] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:42:44] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:47:19] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:47:28] [ DEBUG] [OdontologoServiceImpl:39] Registrando  odontologo con id: null
+[2022-04-21 12:47:28] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:47:33] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:47:35] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
+[2022-04-21 12:47:39] [ DEBUG] [OdontologoServiceImpl:27] Lista de odontologos registrados
